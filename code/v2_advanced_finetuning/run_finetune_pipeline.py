@@ -28,6 +28,9 @@ import pandas as pd
 from collections import Counter
 import xgboost as xgb
 
+# Ensure current script directory is in sys.path so 'src' is found regardless of cwd
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
 # Import core modules
 from src.preprocessing import (
     clean_text, build_entity_lookup, load_country_slice,
