@@ -40,6 +40,8 @@ Our winning strategy combines **5 key innovations**:
 | 10 | [**Graph Post-Processing**](file:///D:/ML_Challenge/docs/10_GRAPH_POST_PROCESSING.md) | Cardinality enforcement, singleton protection, transitivity checks, match count cap |
 | 11 | [**Kaggle Implementation Guide**](file:///D:/ML_Challenge/docs/11_KAGGLE_IMPLEMENTATION_GUIDE.md) | 3-notebook structure, memory management, 9-hour timeline, debugging checklist |
 | 12 | [**Kaggle Dataset Creation Guide**](file:///D:/ML_Challenge/docs/12_KAGGLE_DATASET_CREATION_GUIDE.md) | Step-by-step dataset packaging, uploading, and chained notebooks setup |
+| 13 | [**V2 Fine-Tuning & Ensemble Guide**](file:///D:/ML_Challenge/docs/13_V2_ADVANCED_FINETUNING_AND_ENSEMBLE_GUIDE.md) | Pre-trained artifact injection, warm-start booster expansion, XGBoost+LightGBM probability fusion, F0.5 threshold tuning |
+| 14 | [**Shard-Streaming Memory Architecture**](file:///D:/ML_Challenge/docs/14_SHARD_STREAMING_MEMORY_OPTIMIZATION.md) | OOM root cause analysis, 2-pass ingestion, filtered candidate reloading, <8 GB RAM hard ceiling |
 
 ---
 
